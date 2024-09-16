@@ -1,2 +1,2 @@
 # Word-Counter-Django-Project
-Project Name: Word Counter Django Project Features: Counts words, letters, vowels, consonants, and articles Framework: Django Goal: Analyze text for key linguistic features
+The Word Counter Django Project is a web app built with Django to analyze text input. It counts the number of words, letters, vowels, consonants, and articles ('a', 'an', 'the'). After submitting text, users see detailed statistics in an easy-to-read format. This project is perfect for basic text analysis tasks.
